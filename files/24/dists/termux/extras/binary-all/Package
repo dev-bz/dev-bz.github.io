@@ -1,0 +1,14 @@
+Package: Sample
+Version: 1.0.0
+Architecture: all
+Maintainer: zmz-maintainer
+Installed-Size: 4096
+Provides: what
+Filename: deps/sample.deb
+Size: 852
+MD5sum: e190efe3b383b13ec540c517d254fd2a
+SHA1: 71dafe697002dc9a489410494e2d1c127502637c
+SHA256: 7cf8d8b514a966837466f70be176d7ee82775c9d09efceb98b4be92bc9d142ec
+Section: dontKnow
+Priority: optional
+Description: A Sample for build deb package
