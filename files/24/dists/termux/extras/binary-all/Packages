@@ -8,7 +8,7 @@ Installed-Size: 4096
 Provides: what
 Depends:
 Suggests:
-Filename: ./sample.deb
+Filename: ./dists/termux/extras/binary-all/sample.deb
 Size: 852
 MD5sum: e190efe3b383b13ec540c517d254fd2a
 SHA1: 71dafe697002dc9a489410494e2d1c127502637c
