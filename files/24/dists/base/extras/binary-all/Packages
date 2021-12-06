@@ -1,15 +1,12 @@
-Package: Sample
-Version: 1.0.0
+Package: sample
+Version: 1.30.99
 Architecture: all
-Maintainer: zmz-maintainer
-Installed-Size: 4096
-Provides: what
+Maintainer: devu
 Filename: pool/main/sample.deb
-Size: 852
-MD5sum: e190efe3b383b13ec540c517d254fd2a
-SHA1: 71dafe697002dc9a489410494e2d1c127502637c
-SHA256: 7cf8d8b514a966837466f70be176d7ee82775c9d09efceb98b4be92bc9d142ec
-Section: dontKnow
+Size: 796
+MD5sum: 75108255b5d13a4191256477deea9499
+SHA1: ca3e1609e79e13634f9815b3cac59608ce8340c9
+SHA256: b8a4862447e81616cbb375958f05b0cf4bdf401686361c444cadc2bd4cad4756
 Priority: optional
-Description: A Sample for build deb package
+Description: Demo
 
