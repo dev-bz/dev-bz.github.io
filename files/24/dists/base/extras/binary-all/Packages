@@ -1,18 +1,15 @@
 Package: Sample
-Architecture: all
 Version: 1.0.0
-Priority: optional
-Section: dontKnow
+Architecture: all
 Maintainer: zmz-maintainer
 Installed-Size: 4096
 Provides: what
-Depends:
-Suggests:
-Filename: ./dists/termux/extras/binary-all/sample.deb
+Filename: pool/main/sample.deb
 Size: 852
 MD5sum: e190efe3b383b13ec540c517d254fd2a
 SHA1: 71dafe697002dc9a489410494e2d1c127502637c
 SHA256: 7cf8d8b514a966837466f70be176d7ee82775c9d09efceb98b4be92bc9d142ec
-SHA512: bf8db8f15effce635a9151b2534d1ca6b26918efc255cc1738569b0293f66d1429fa262171ecd29e8ea45f77a6ce0713402acfe65d215863d736a4eef6224ae0
+Section: dontKnow
+Priority: optional
 Description: A Sample for build deb package
 
